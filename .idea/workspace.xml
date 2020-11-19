@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e21641c9-ffc9-4fb0-b8ea-3690798d9661" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TP1AOUGSWFwQ4VAuu8N6Zhy52H" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spider_Web_site\51job\Spider_51job\dbModels" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spider_Web_site\51job\crawl_51job_sqlalchemy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Thread_51job_all">
+    <configuration name="Handle_peewee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_crawl_51job" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Spider_Web_site\51job\Spider_51job\dbModels\Handle_peewee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Handle_sqlalchemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_crawl_51job" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Spider_Web_site\51job\Spider_51job\dbModels\Handle_sqlalchemy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selenium_51job" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_crawl_51job" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_51job.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Thread_51job_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_crawl_51job" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thread_51job_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gei_jobList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_crawl_51job" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gei_jobList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Thread_51job_all" />
+      <item itemvalue="Python.Handle_sqlalchemy" />
+      <item itemvalue="Python.Handle_peewee" />
+      <item itemvalue="Python.Selenium_51job" />
+      <item itemvalue="Python.gei_jobList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Thread_51job_all" />
+        <item itemvalue="Python.gei_jobList" />
+        <item itemvalue="Python.Selenium_51job" />
+        <item itemvalue="Python.Handle_peewee" />
+        <item itemvalue="Python.Handle_sqlalchemy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21641c9-ffc9-4fb0-b8ea-3690798d9661" name="Default Changelist" comment="" />
+      <created>1565242541707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565242541707</updated>
+      <workItem from="1573346773423" duration="3665000" />
+      <workItem from="1599200739212" duration="8923000" />
+      <workItem from="1599973801141" duration="2416000" />
+      <workItem from="1602199889015" duration="8178000" />
+      <workItem from="1602276555792" duration="3689000" />
+      <workItem from="1602362242840" duration="626000" />
+      <workItem from="1602697253026" duration="1245000" />
+      <workItem from="1602704550960" duration="19051000" />
+      <workItem from="1602725256499" duration="3646000" />
+      <workItem from="1602728918621" duration="12251000" />
+      <workItem from="1603042669004" duration="616000" />
+      <workItem from="1603100473453" duration="5232000" />
+      <workItem from="1603218870613" duration="24784000" />
+      <workItem from="1603366866612" duration="16638000" />
+      <workItem from="1603411223542" duration="6168000" />
+      <workItem from="1603476406028" duration="1254000" />
+      <workItem from="1603562202101" duration="5755000" />
+      <workItem from="1603586282121" duration="28707000" />
+      <workItem from="1603667817762" duration="3389000" />
+      <workItem from="1603747929981" duration="29000" />
+      <workItem from="1603803627444" duration="17854000" />
+      <workItem from="1603909007907" duration="9730000" />
+      <workItem from="1604084877297" duration="1490000" />
+      <workItem from="1604336213007" duration="622000" />
+      <workItem from="1604371428336" duration="612000" />
+      <workItem from="1604580513043" duration="773000" />
+      <workItem from="1604977001094" duration="1361000" />
+      <workItem from="1605145087214" duration="1204000" />
+      <workItem from="1605157918271" duration="1204000" />
+      <workItem from="1605190291479" duration="575000" />
+      <workItem from="1605776628782" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605777376405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605777376405" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1605777331007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599215524118" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605777331007" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1605777331007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599215524117" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605777331007" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1605777331007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599215524117" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605777331007" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1605777331007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599215524117" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605777331007" />
+    <state width="1877" height="497" key="GridCell.Tab.1.bottom" timestamp="1603644200691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599215524118" />
+    <state width="1877" height="497" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603644200691" />
+    <state width="1877" height="497" key="GridCell.Tab.1.center" timestamp="1603644200691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599215524118" />
+    <state width="1877" height="497" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603644200691" />
+    <state width="1877" height="497" key="GridCell.Tab.1.left" timestamp="1603644200691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599215524118" />
+    <state width="1877" height="497" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603644200691" />
+    <state width="1877" height="497" key="GridCell.Tab.1.right" timestamp="1603644200691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="461" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599215524118" />
+    <state width="1877" height="497" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603644200691" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1605777392490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605777392490" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603599319684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603599319684" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spider_51job$Handle_peewee.coverage" NAME="Handle_peewee Coverage Results" MODIFIED="1603924054166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$handle_51job.coverage" NAME="handle_51job Coverage Results" MODIFIED="1602236260408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$Thread_51job_all.coverage" NAME="Thread_51job_all Coverage Results" MODIFIED="1605776831662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$test.coverage" NAME="test Coverage Results" MODIFIED="1603809538795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawl_51job_sqlalchemy$handle_51job.coverage" NAME="handle_51job Coverage Results" MODIFIED="1599215109215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawl_51job_sqlalchemy$create_tables_sqlalchemy.coverage" NAME="create_tables_sqlalchemy Coverage Results" MODIFIED="1599212721798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$Handle_sqlalchemy.coverage" NAME="Handle_sqlalchemy Coverage Results" MODIFIED="1603834362455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study_crawl_51job$fdsjfh.coverage" NAME="fdsjfh Coverage Results" MODIFIED="1573350661231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$Handle_mangodb.coverage" NAME="Handle_mangodb Coverage Results" MODIFIED="1603606012579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$gei_jobList.coverage" NAME="gei_jobList Coverage Results" MODIFIED="1605776724343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$selenium_51job__1_.coverage" NAME="selenium_51job (1) Coverage Results" MODIFIED="1603234068250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$Threading_51job.coverage" NAME="Threading_51job Coverage Results" MODIFIED="1603235526074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawl_51job_sqlalchemy$handle_insert_data.coverage" NAME="handle_insert_data Coverage Results" MODIFIED="1599214044485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$get_zhineng.coverage" NAME="get_zhineng Coverage Results" MODIFIED="1603228980277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$Thread_51job_keyword__1_.coverage" NAME="Thread_51job_keyword (1) Coverage Results" MODIFIED="1603249862202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider_51job$Selenium_51job.coverage" NAME="Selenium_51job Coverage Results" MODIFIED="1604085074966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
